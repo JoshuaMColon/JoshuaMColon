@@ -51,8 +51,8 @@ I'm a developer and student passionate about crafting clean, functional web expe
 | Project | Description |
 |---|---|
 | 🌐 **[Portfolio](https://myportfoliojosh2.netlify.app/)** | My personal portfolio — responsive, clean, and built to impress |
-| 🌤️ **Weather Dashboard** | A weather app that fetches real-time data and displays it beautifully |
-| ✅ **Task Manager** | A productivity app to organize and track your tasks efficiently |
+| 🌤️ **[Weather Dashboard](https://joshuamcolon.github.io/Weather_Dashboard_App/)** | A weather app that fetches real-time data and displays it beautifully |
+| ✅ **[Task Manager](https://joshuamcolon.github.io/task-manager/)** | A productivity app to organize and track your tasks efficiently |
 
 ---
 
