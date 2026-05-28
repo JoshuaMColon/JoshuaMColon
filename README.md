@@ -53,6 +53,7 @@ I'm a developer and student passionate about crafting clean, functional web expe
 | 🌐 **[Portfolio](https://myportfoliojosh2.netlify.app/)** | My personal portfolio — responsive, clean, and built to impress |
 | 🌤️ **[Weather Dashboard](https://joshuamcolon.github.io/Weather_Dashboard_App/)** | A weather app that fetches real-time data and displays it beautifully |
 | ✅ **[Task Manager](https://joshuamcolon.github.io/task-manager/)** | A productivity app to organize and track your tasks efficiently |
+| 📝 **[Blog Platform]([https://your-vercel-url.vercel.app](https://blog-platform-one-xi.vercel.app/login))** | A full-stack blog platform with auth, rich text editor, comments, and likes — built with React, TypeScript & Supabase |
 
 ---
 
