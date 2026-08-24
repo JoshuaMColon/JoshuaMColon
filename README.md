@@ -2,7 +2,7 @@
 
 # Hey, I'm Joshua Colon 👋
 
-**Frontend Dev · Backend Dev · Game Dev · Student**
+**Frontend Dev · Backend Dev · Student**
 
 *Building things for the web, one commit at a time.*
 
@@ -50,7 +50,7 @@ I'm a developer and student passionate about crafting clean, functional web expe
 
 | Project | Description |
 |---|---|
-| 🌐 **[Portfolio](https://myportfoliojosh2.netlify.app/)** | My personal portfolio — responsive, clean, and built to impress |
+| 📋 **[Collaborative Kanban Board]((https://collaborative-kanban-board-gold.vercel.app/)** | A collaborative task management board for organizing projects, tracking progress, and working with team members in real time |
 | 🌤️ **[Weather Dashboard](https://joshuamcolon.github.io/Weather_Dashboard_App/)** | A weather app that fetches real-time data and displays it beautifully |
 | ✅ **[Task Manager](https://joshuamcolon.github.io/task-manager/)** | A productivity app to organize and track your tasks efficiently |
 | 📝 **[Blog Platform](https://blog-platform-one-xi.vercel.app/)** | A full-stack blog platform with auth, rich text editor, comments, and likes — built with React, TypeScript & Supabase |
