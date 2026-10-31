@@ -1,25 +1,28 @@
-<a href="https://myportfoliojosh2.netlify.app/">
+<a href="https://joshuamcolon.github.io/portfolio-project/">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-<img src="assets/header-light.svg" alt="Joshua Colon: full-stack developer and WGU student" width="100%">
+<img src="assets/header-light.svg" alt="Joshua Colon: full-stack developer building real-time web apps" width="100%">
 </picture>
 </a>
 
 <p align="center">
-<a href="https://myportfoliojosh2.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-myportfoliojosh2-0f172a?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"></a>
+<a href="https://joshuamcolon.github.io/portfolio-project/"><img src="https://img.shields.io/badge/Portfolio-View_my_work-0f172a?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/joshua-colon2"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-## 👋 Welcome in
+## 👋 About me
 
-I'm Joshua, a WGU student who builds full-stack web apps between classes, work and family life. I like taking an idea all the way from a blank repo to something you can actually click around in: thoughtful UI, real data, auth, realtime updates and tests that keep it honest.
+I'm a full-stack developer building real-time, production-ready web apps with **React, TypeScript, Supabase and Vercel**. I take products from an empty repo to a live deployment: a polished, responsive UI on the front, a locked-down Postgres backend behind it, and automated tests guarding every release.
 
-Every project below is live, and most have a **one-click demo** so you can explore without signing up. Poke around, break things, and tell me what you think.
+What I ship:
 
-- 🎓 Studying at **Western Governors University**
-- 🐍 Currently learning **Python** for WGU course D335
-- 🛠️ Building with **React, TypeScript and Supabase**, deployed on **Vercel**
-- 💬 Happy to talk about web dev, study tools or any of the projects here
+- 🔐 **Auth and data security:** Supabase Auth, guest sessions and Postgres row-level security on every table
+- ⚡ **Realtime:** live presence, instant sync across devices, chat and notifications over Supabase Realtime
+- ☁️ **Serverless:** Vercel Functions and Supabase Edge Functions for APIs and AI features, plus pg_cron for scheduled jobs
+- ✅ **CI and testing:** Vitest unit tests and Playwright end-to-end suites running in GitHub Actions
+- ♿ **Accessibility:** keyboard-first flows, reduced-motion support and axe-checked pages
+
+Every project below is live, and most have a **one-click demo**, so you can explore without signing up.
 
 ## 🚀 Featured projects
 
@@ -115,6 +118,10 @@ Every project below is live, and most have a **one-click demo** so you can explo
 </a>
 </p>
 
+## 📚 Currently
+
+Sharpening Python (WGU D335) alongside B.S. coursework at Western Governors University.
+
 ## 📈 Activity
 
 <p align="center">
@@ -127,5 +134,5 @@ Every project below is live, and most have a **one-click demo** so you can explo
 ---
 
 <p align="center">
-Thanks for stopping by! The full case studies live on my <a href="https://myportfoliojosh2.netlify.app/"><b>portfolio</b></a>. ✨
+Thanks for stopping by! The full case studies live on my <a href="https://joshuamcolon.github.io/portfolio-project/"><b>portfolio</b></a>. ✨
 </p>
