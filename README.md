@@ -38,7 +38,7 @@ Every project below is live, and most have a **one-click demo**, so you can expl
 <h3>Collaborative Kanban Board</h3>
 <p>Real-time team board with drag-and-drop cards, live presence and a clean, focused flow.</p>
 <p><code>React</code> <code>TypeScript</code> <code>Supabase Realtime</code> <code>dnd-kit</code></p>
-<p><a href="https://collaborative-kanban-board-gold.vercel.app"><b>Live</b></a> · <a href="https://github.com/JoshuaMColon/collaborative-kanban-board">Code</a></p>
+<p><a href="https://collaborative-kanban-board-gold.vercel.app"><b>Live</b></a> · <a href="https://collaborative-kanban-board-gold.vercel.app/demo">Try the demo</a> · <a href="https://github.com/JoshuaMColon/collaborative-kanban-board">Code</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://blog-platform-one-xi.vercel.app">
