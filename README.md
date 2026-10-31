@@ -109,7 +109,7 @@ Every project below is live, and most have a **one-click demo** so you can explo
 <p align="center">
 <a href="https://skillicons.dev">
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,nodejs,supabase,postgres,py,vitest,git,githubactions,vercel,netlify&theme=dark&perline=8">
+<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cts%2Cjs%2Chtml%2Ccss%2Ctailwind%2Cvite%2Cnodejs%2Csupabase%2Cpostgres%2Cpy%2Cvitest%2Cgit%2Cgithubactions%2Cvercel%2Cnetlify&theme=dark&perline=8">
 <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,nodejs,supabase,postgres,py,vitest,git,githubactions,vercel,netlify&theme=light&perline=8" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Vite, Node.js, Supabase, PostgreSQL, Python, Vitest, Git, GitHub Actions, Vercel, Netlify">
 </picture>
 </a>
