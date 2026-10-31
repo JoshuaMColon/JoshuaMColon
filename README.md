@@ -88,7 +88,7 @@ Every project below is live, and most have a **one-click demo**, so you can expl
 </picture>
 </a>
 <h3>Recall Lab</h3>
-<p>Study lab for intro Python: 304 original questions graded by real Python in the browser, spaced repetition and a timed mock OA.</p>
+<p>Python practice platform: 304 original questions graded by real Python running in the browser via WebAssembly, with spaced repetition and a timed mock exam.</p>
 <p><code>React</code> <code>TypeScript</code> <code>Pyodide</code> <code>Supabase</code></p>
 <p><a href="https://recall-lab-ruby.vercel.app"><b>Live</b></a> · <a href="https://recall-lab-ruby.vercel.app/demo">Try the demo</a> · <a href="https://github.com/JoshuaMColon/recall-lab">Code</a></p>
 </td>
