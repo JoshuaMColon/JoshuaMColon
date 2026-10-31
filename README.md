@@ -1,78 +1,131 @@
-<div align="center">
+<a href="https://myportfoliojosh2.netlify.app/">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+<img src="assets/header-light.svg" alt="Joshua Colon: full-stack developer and WGU student" width="100%">
+</picture>
+</a>
 
-# Hey, I'm Joshua Colon 👋
+<p align="center">
+<a href="https://myportfoliojosh2.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-myportfoliojosh2-0f172a?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/joshua-colon2"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
-**Frontend Dev · Backend Dev · Student**
+## 👋 Welcome in
 
-*Building things for the web, one commit at a time.*
+I'm Joshua, a WGU student who builds full-stack web apps between classes, work and family life. I like taking an idea all the way from a blank repo to something you can actually click around in: thoughtful UI, real data, auth, realtime updates and tests that keep it honest.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-colon2)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=netlify&logoColor=white)](https://myportfoliojosh2.netlify.app/)
+Every project below is live, and most have a **one-click demo** so you can explore without signing up. Poke around, break things, and tell me what you think.
 
-</div>
+- 🎓 Studying at **Western Governors University**
+- 🐍 Currently learning **Python** for WGU course D335
+- 🛠️ Building with **React, TypeScript and Supabase**, deployed on **Vercel**
+- 💬 Happy to talk about web dev, study tools or any of the projects here
+
+## 🚀 Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://collaborative-kanban-board-gold.vercel.app">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/cards/kanban-board-dark.webp">
+<img src="assets/cards/kanban-board-light.webp" alt="Collaborative Kanban Board screenshot" width="100%">
+</picture>
+</a>
+<h3>Collaborative Kanban Board</h3>
+<p>Real-time team board with drag-and-drop cards, live presence and a clean, focused flow.</p>
+<p><code>React</code> <code>TypeScript</code> <code>Supabase Realtime</code> <code>dnd-kit</code></p>
+<p><a href="https://collaborative-kanban-board-gold.vercel.app"><b>Live</b></a> · <a href="https://github.com/JoshuaMColon/collaborative-kanban-board">Code</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://blog-platform-one-xi.vercel.app">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/cards/blog-platform-dark.webp">
+<img src="assets/cards/blog-platform-light.webp" alt="Blog Platform screenshot" width="100%">
+</picture>
+</a>
+<h3>Blog Platform</h3>
+<p>Cyber-styled blogging app with realtime comments, notifications, full-text search and AI-matched related posts.</p>
+<p><code>React</code> <code>TypeScript</code> <code>Supabase</code> <code>pgvector</code></p>
+<p><a href="https://blog-platform-one-xi.vercel.app"><b>Live</b></a> · <a href="https://blog-platform-one-xi.vercel.app/demo">Try the demo</a> · <a href="https://github.com/JoshuaMColon/blog-platform">Code</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://weather-dashboard-app-sable-three.vercel.app">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/cards/weather-dashboard-dark.webp">
+<img src="assets/cards/weather-dashboard-light.webp" alt="Weather Dashboard screenshot" width="100%">
+</picture>
+</a>
+<h3>Weather Dashboard</h3>
+<p>iPhone Weather-style app with animated skies, an hourly strip, a 10-day forecast and cities that sync across devices.</p>
+<p><code>React</code> <code>TypeScript</code> <code>Vercel Functions</code> <code>Open-Meteo</code></p>
+<p><a href="https://weather-dashboard-app-sable-three.vercel.app"><b>Live</b></a> · <a href="https://weather-dashboard-app-sable-three.vercel.app/demo">Try the demo</a> · <a href="https://github.com/JoshuaMColon/Weather_Dashboard_App">Code</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://xplan-sand.vercel.app">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/cards/xplan-dark.webp">
+<img src="assets/cards/xplan-light.webp" alt="XPlan screenshot" width="100%">
+</picture>
+</a>
+<h3>XPlan</h3>
+<p>A task manager that plays like an RPG: quests earn XP, levels and trophies, with natural-language quick-add and Cmd+K.</p>
+<p><code>React</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Supabase</code></p>
+<p><a href="https://xplan-sand.vercel.app"><b>Live</b></a> · <a href="https://xplan-sand.vercel.app/demo">Try the demo</a> · <a href="https://github.com/JoshuaMColon/task-manager">Code</a></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://recall-lab-ruby.vercel.app">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/cards/recall-lab-dark.webp">
+<img src="assets/cards/recall-lab-light.webp" alt="Recall Lab screenshot" width="100%">
+</picture>
+</a>
+<h3>Recall Lab</h3>
+<p>Study lab for intro Python: 304 original questions graded by real Python in the browser, spaced repetition and a timed mock OA.</p>
+<p><code>React</code> <code>TypeScript</code> <code>Pyodide</code> <code>Supabase</code></p>
+<p><a href="https://recall-lab-ruby.vercel.app"><b>Live</b></a> · <a href="https://recall-lab-ruby.vercel.app/demo">Try the demo</a> · <a href="https://github.com/JoshuaMColon/recall-lab">Code</a></p>
+</td>
+<td width="50%" valign="top">
+<a href="https://buddyline-app.vercel.app">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/cards/buddyline-dark.webp">
+<img src="assets/cards/buddyline-light.webp" alt="Buddyline screenshot" width="100%">
+</picture>
+</a>
+<h3>Buddyline</h3>
+<p>An early-2000s style instant messenger: live Buddy List, away messages, floating IM windows, Buzz and eight skins.</p>
+<p><code>React</code> <code>TypeScript</code> <code>Supabase Realtime</code> <code>Web Audio</code></p>
+<p><a href="https://buddyline-app.vercel.app"><b>Live</b></a> · <a href="https://buddyline-app.vercel.app/demo">Try the demo</a> · <a href="https://github.com/JoshuaMColon/buddyline">Code</a></p>
+</td>
+</tr>
+</table>
+
+## 🧰 Tools I use
+
+<p align="center">
+<a href="https://skillicons.dev">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,nodejs,supabase,postgres,py,vitest,git,githubactions,vercel,netlify&theme=dark&perline=8">
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,nodejs,supabase,postgres,py,vitest,git,githubactions,vercel,netlify&theme=light&perline=8" alt="React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS, Vite, Node.js, Supabase, PostgreSQL, Python, Vitest, Git, GitHub Actions, Vercel, Netlify">
+</picture>
+</a>
+</p>
+
+## 📈 Activity
+
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=JoshuaMColon&theme=dark&hide_border=true&background=0D1117">
+<img src="https://streak-stats.demolab.com?user=JoshuaMColon&hide_border=true" alt="Joshua's GitHub contribution streak">
+</picture>
+</p>
 
 ---
 
-## 🧑‍💻 About Me
-
-I'm a developer and student passionate about crafting clean, functional web experiences and exploring the world of game development. I love working across the stack — from polished UIs to solid backend logic.
-
-- 🎓 Currently a **student** leveling up every day
-- 🌐 Building **web apps** with modern frontend & backend tools
-- 🎮 Exploring **game development** on the side
-- 🚀 Always learning something new
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Backend & Database**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**Deployment**
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-
----
-
-## 📂 Featured Projects
-
-| Project | Description |
-|---|---|
-| 📋 **[Collaborative Kanban Board](https://collaborative-kanban-board-gold.vercel.app/)** | A collaborative task management board for organizing projects, tracking progress, and working with team members in real time |
-| 🌤️ **[Weather Dashboard](https://joshuamcolon.github.io/Weather_Dashboard_App/)** | A weather app that fetches real-time data and displays it beautifully |
-| ✅ **[Task Manager](https://joshuamcolon.github.io/task-manager/)** | A productivity app to organize and track your tasks efficiently |
-| 📝 **[Blog Platform](https://blog-platform-one-xi.vercel.app/)** | A full-stack blog platform with auth, rich text editor, comments, and likes — built with React, TypeScript & Supabase |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=JoshuaMColon&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JoshuaMColon&theme=tokyonight" alt="Profile Summary" />
-
-</div>
-
----
-
-<div align="center">
-
-*Thanks for stopping by! Feel free to check out my work or connect with me.* 😊
-
-</div>
+<p align="center">
+Thanks for stopping by! The full case studies live on my <a href="https://myportfoliojosh2.netlify.app/"><b>portfolio</b></a>. ✨
+</p>
