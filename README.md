@@ -1,4 +1,4 @@
-<a href="https://joshuamcolon.github.io/portfolio-project/">
+<a href="https://joshuamcolon.vercel.app/">
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
 <img src="assets/header-light.svg" alt="Joshua Colon: full-stack developer building real-time web apps" width="100%">
@@ -6,7 +6,7 @@
 </a>
 
 <p align="center">
-<a href="https://joshuamcolon.github.io/portfolio-project/"><img src="https://img.shields.io/badge/Portfolio-View_my_work-0f172a?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+<a href="https://joshuamcolon.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View_my_work-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/joshua-colon2"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
@@ -134,5 +134,5 @@ Sharpening Python (WGU D335) alongside B.S. coursework at Western Governors Univ
 ---
 
 <p align="center">
-Thanks for stopping by! The full case studies live on my <a href="https://joshuamcolon.github.io/portfolio-project/"><b>portfolio</b></a>. ✨
+Thanks for stopping by! The full case studies live on my <a href="https://joshuamcolon.vercel.app/"><b>portfolio</b></a>. ✨
 </p>
