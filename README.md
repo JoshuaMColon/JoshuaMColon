@@ -105,6 +105,21 @@ Every project below is live, and most have a **one-click demo**, so you can expl
 <p><a href="https://buddyline-app.vercel.app"><b>Live</b></a> · <a href="https://buddyline-app.vercel.app/demo">Try the demo</a> · <a href="https://github.com/JoshuaMColon/buddyline">Code</a></p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://game-dev-portfolio-eta.vercel.app">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/cards/game-dev-portfolio-dark.webp">
+<img src="assets/cards/game-dev-portfolio-light.webp" alt="Game Dev Portfolio screenshot" width="100%">
+</picture>
+</a>
+<h3>Game Dev Portfolio</h3>
+<p>My Unreal Engine 5 gameplay programming portfolio: project pages, WebGL shader transitions and a Level Design workbench for the Site Zero blockout.</p>
+<p><code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>WebGL</code></p>
+<p><a href="https://game-dev-portfolio-eta.vercel.app"><b>Live</b></a> · <a href="https://github.com/JoshuaMColon/game-dev-portfolio">Code</a></p>
+</td>
+<td width="50%" valign="top"></td>
+</tr>
 </table>
 
 ## 🧰 Tools I use
